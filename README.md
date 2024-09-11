@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Designing
 - 🌱 I’m currently learning to code and design
 - 💞️ I’m looking to collaborate on Front end coding
-- 📫 How to reach me : eamil or message me
+- 📫 How to reach me : email or message me
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I draw real people
 
